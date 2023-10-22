@@ -1,5 +1,5 @@
 # spring-boot-init
-##¿Qué es?
+## ¿Qué es?
 Spring-boot-init un proyecto de ejemplo desarrollado con spring boot el cual trae todas las dependencias y configuraciones necesarias para empezar a desarrollar un proyecto spring con arquitectura monolítica.
 
 ## ¿Qué incluye?
